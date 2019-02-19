@@ -1,5 +1,5 @@
 
-	const a = 10;
-	const b = 20;
-	const sum = a + b;
-	console.log(sum);
+let myName = '鈴木';
+myName = '高橋';
+alert(myName);
+
